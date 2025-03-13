@@ -1,0 +1,12 @@
+.box{
+    height: 400px;
+}
+.bluebox{
+    height: 275px;
+    background-image: url("/images/istockphoto-462797937-612x612.jpg");
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    height: 50vh;
+
+}
